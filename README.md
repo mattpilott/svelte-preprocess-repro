@@ -1,4 +1,4 @@
-#Readme
+## Readme
 
 The repro is set to use the `sass` package and the build fails when using `:global()` with sass code
 
